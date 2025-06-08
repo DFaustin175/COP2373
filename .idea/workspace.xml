@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd1ea8d-503a-43b5-981e-21e03246e1e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programming Exercise 1/DeeFaustin_ProgrammingExercise_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/COP2373.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/COP2373.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Exercise 2/DeeFaustin_ProgrammingExercise_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +47,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DeeFaustin_ProgrammingExercise_1.executor": "Run",
+    "Python.DeeFaustin_ProgrammingExercise_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/deefa/Desktop/PycharmProjects/COP2373",
+    "last_opened_file_path": "C:/Users/deefa/Desktop/GitHub/COP2373",
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
