@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd1ea8d-503a-43b5-981e-21e03246e1e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programming Exercise 4/DeeFaustin_ProgrammingExercise_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Exercise 6/DeeFaustin_ProgrammingExercise_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Exercise 7/DeeFaustin_ProgrammingExercise_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +51,8 @@
     "Python.DeeFaustin_ProgrammingExercise_2.executor": "Run",
     "Python.DeeFaustin_ProgrammingExercise_3.executor": "Run",
     "Python.DeeFaustin_ProgrammingExercise_4.executor": "Run",
+    "Python.DeeFaustin_ProgrammingExercise_6.executor": "Run",
+    "Python.DeeFaustin_ProgrammingExercise_7.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,6 +62,11 @@
     "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\deefa\Desktop\GitHub\COP2373" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
