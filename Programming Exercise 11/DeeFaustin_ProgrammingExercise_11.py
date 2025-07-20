@@ -56,7 +56,6 @@ def main():
     print("Your hand:")
     for card in deck.hand:
         print(card.fullName)
-    print("\n")
 
     answer = input("Replace cards?: ")
     while answer.lower() == 'y' or answer.lower() == 'yes':
@@ -66,7 +65,6 @@ def main():
     print("\nFinal hand:")
     for card in deck.hand:
         print(card.fullName)
-
 
 def drawCards(deck):
     cardIndex = int(input("Which card would you like to replace?: "))

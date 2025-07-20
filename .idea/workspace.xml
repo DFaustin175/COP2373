@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd1ea8d-503a-43b5-981e-21e03246e1e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programming Exercise 11/DeeFaustin_ProgrammingExercise_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Exercise 12/DeeFaustin_ProgrammingExercise_12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Exercise CSV/DeeFaustin_ProgrammingExercise_CSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Exercise CSV/DeeFaustin_ProgrammingExercise_CSV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Exercise CSV/Student_Grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Exercise CSV/Student_Grades.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Exercise 11/DeeFaustin_ProgrammingExercise_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Exercise 11/DeeFaustin_ProgrammingExercise_11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,28 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DeeFaustin_ProgrammingExercise_1.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_11.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_12.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_2.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_3.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_4.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_6.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_7.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_9.executor": "Run",
-    "Python.DeeFaustin_ProgrammingExercise_CSV.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/deefa/Desktop/GitHub/COP2373",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DeeFaustin_ProgrammingExercise_CSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/deefa/Desktop/GitHub/COP2373&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\deefa\Desktop\GitHub\COP2373" />
