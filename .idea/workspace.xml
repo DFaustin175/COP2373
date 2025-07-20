@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fd1ea8d-503a-43b5-981e-21e03246e1e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programming Exercise 9/DeeFaustin_ProgrammingExercise_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Exercise 11/DeeFaustin_ProgrammingExercise_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Exercise 12/DeeFaustin_ProgrammingExercise_12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Exercise CSV/DeeFaustin_ProgrammingExercise_CSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Exercise CSV/DeeFaustin_ProgrammingExercise_CSV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Exercise CSV/Student_Grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Exercise CSV/Student_Grades.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DeeFaustin_ProgrammingExercise_1.executor": "Run",
+    "Python.DeeFaustin_ProgrammingExercise_11.executor": "Run",
+    "Python.DeeFaustin_ProgrammingExercise_12.executor": "Run",
     "Python.DeeFaustin_ProgrammingExercise_2.executor": "Run",
     "Python.DeeFaustin_ProgrammingExercise_3.executor": "Run",
     "Python.DeeFaustin_ProgrammingExercise_4.executor": "Run",

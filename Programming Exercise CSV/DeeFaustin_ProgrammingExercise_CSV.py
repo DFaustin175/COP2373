@@ -7,20 +7,21 @@ def createFile():
     studentCount = int(input("Welcome, How many student grades will you be submitting? "))
 
     #Initialze table of information with a header for data points
-    data = [
-        ["First Name", "Last Name", "Exam 1", "Exam 2", "Exam 3"]
-    ]
+    data = []
 
     #Continue taking in information until all students are logged
     for x in range(studentCount):
-        firstName, lastName = str(input("Enter the student's first and last name: ")).split()
+        fullName = str(input("Enter the student's first and last name: "))
         exam1, exam2, exam3 = map(int, input("Enter the students 3 test scores: ").split())
-        data.append([firstName, lastName, exam1, exam2, exam3])
+        newData = {"Full Name": fullName, "Exam 1": exam1, "Exam 2": exam2, "Exam 3": exam3}
+        data.append(newData)
         print("Data successfully added. \n")
 
     #Using the data submitted create a csv file and populate it with the data
+    keys = data[0].keys()
+
     with open("Student_Grades.csv", "w", newline="") as csvfile:
-        writer = csv.writer(csvfile, delimiter="|")
+        writer = csv.DictWriter(csvfile, keys)
         writer.writerows(data)
 
 #Read and display the contents of previously created csv file
